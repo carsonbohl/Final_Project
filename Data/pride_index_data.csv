@@ -1,0 +1,239 @@
+campus_name,campus_location.x,rating,students,community_type,campus_location.y,public,private,doctoral,masters,baccalaureate,community,residential,nonresidential,liberal_arts,technical,religious,military,hbcu,hispanic_serving,aapi_serving,other_minority_serving
+"University of Maryland, College Park","College Park, MD",5,37952,large urban city,"College Park, MD",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,TRUE,NA
+University of Michigan-Dearborn,"Dearborn, MI",3,9000,medium city,"Dearborn, MI",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+SUNY Westchester Community College,"Valhalla, NY",4,13000,very small town,"Valhalla, NY",TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+University at Buffalo,"Buffalo, NY",3.5,29850,medium city,"Buffalo, NY",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Slippery Rock University,"Slippery Rock, PA",4,8500,rural community,"Slippery Rock, PA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Emory University,"Atlanta, GA",4.5,14769,large urban city,"Atlanta, GA",NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+Washington State University,"Pullman, WA",5,19446,small town,"Pullman, WA",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Davidson College,"Davidson, NC",4,1850,small town,"Davidson, NC",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Virginia Commonwealth University,"Richmond, VA",4.5,31500,medium city,"Richmond, VA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Northern Arizona University,"Flagstaff, AZ",4.5,29000,small city,"Flagstaff, AZ",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+"California State University, Long Beach or Long Beach State","Long Beach, CA",4.5,36846,medium city,"Long Beach, CA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+University of La Verne,"La Verne, CA",2.5,8600,small city,"La Verne, CA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+"Rutgers, The State University of New Jersey-New Brunswick","New Brunswick, NJ",5,48000,large urban city,"New Brunswick, NJ",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gettysburg College,"Gettysburg, PA",4.5,2400,very small town,"Gettysburg, PA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Northern Illinois University,"DeKalb, IL",5,16234,small city,"DeKalb, IL",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trinity College,"Hartford, CT",5,2159,medium city,"Hartford, CT",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Augsburg University,"Minneapolis, MN",5,3537,large urban city,"Minneapolis, MN",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+Ithaca College,"Ithaca, NY",5,6000,small city,"Ithaca, NY",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Portland State University,"Portland, OR",5,25000,large urban city,"Portland, OR",TRUE,NA,TRUE,NA,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+Northwestern University,"Evanston, IL",4,21215,small city,"Evanston, IL",NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Colorado at Boulder,"Boulder, CO",5,30000,small city,"Boulder, CO",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Northeastern Illinois University,"Chicago, IL",2.5,10275,large urban city,"Chicago, IL",TRUE,NA,NA,TRUE,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+Elon University,"Elon, NC",5,6500,small town,"Elon, NC",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Bridgewater State University,"Bridgewater, MA",4.5,10000,small city,"Bridgewater, MA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+New Mexico State University,"Las Cruces, NM",4.5,16765,medium city,"Las Cruces, NM",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+University of Richmond,"Richmond, VA",4.5,3890,medium city,"Richmond, VA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Tufts University,"Medford, MA",5,11926,small city,"Medford, MA",NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Nebraska at Omaha,"Omaha, NE",4.5,15500,large urban city,"Omaha, NE",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Youngstown State University,"youngstown, OH",3,11171,medium city,"youngstown, OH",TRUE,NA,NA,TRUE,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+"University of Massachusetts, Amherst","Amherst, MA",5,28500,small town,"Amherst, MA",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+West Virginia University,"Morgantown, WV",4.5,34000,small city,"Morgantown, WV",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Virginia State University,"Virginia State University, VA",4,3400,small town,"Virginia State University, VA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA,NA
+Kansas State University,"Manhattan, KS",5,20000,small city,"Manhattan, KS",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bentley University,"Waltham, MA",4.5,4100,small city,"Waltham, MA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Knox College,"Galesburg, IL",4,1300,small city,"Galesburg, IL",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Oakland University,"Rochester, MI",5,17170,small city,"Rochester, MI",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Union College,"Schenectady, NY",5,2150,small city,"Schenectady, NY",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Montana State University-Bozeman,"Bozeman, MT",4,16902,small city,"Bozeman, MT",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Syracuse University,"Syracuse, NY",4,14422,medium city,"Syracuse, NY",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"California State University, Northridge","Northridge, CA",4.5,36000,large urban city,"Northridge, CA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,TRUE,TRUE,NA
+SUNY Oneonta,"Oneonta, NY, NY",4,5514,small town,"Oneonta, NY, NY",TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Montclair State University,"Montclair, NJ",5,21000,small city,"Montclair, NJ",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,TRUE,NA,NA
+University of New Haven,"West Haven, CT",4,6500,small city,"West Haven, CT",NA,TRUE,NA,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin,"Madison, WI",4.5,43193,medium city,"Madison, WI",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lehigh University,"Bethlehem, PA",5,6950,small city,"Bethlehem, PA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+George Mason University,"Fairfax, VA",5,39150,small city,"Fairfax, VA",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Houston,"Houston, TX",4.5,40000,large urban city,"Houston, TX",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+William & Mary,"Williamsburg, VA",4.5,8500,small town,"Williamsburg, VA",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+College of Staten Island/CUNY,"Staten Island, NY",3.5,10185,large urban city,"Staten Island, NY",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Virginia Tech,"Blacksburg, VA",4,31000,small city,"Blacksburg, VA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA,NA
+Washington University in St. Louis,"St. Louis, MO",5,14000,medium city,"St. Louis, MO",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eastern Michigan University,"Ypsilanti, MI",4.5,10500,small city,"Ypsilanti, MI",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Vermont,"Burlington, VT",5,11000,small city,"Burlington, VT",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MIT,"Cambridge, MA",4.5,11000,medium city,"Cambridge, MA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+"University of Minnesota, Morris","Morris, MN",4,1900,very small town,"Morris, MN",TRUE,NA,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Kalamazoo College,"Kalamazoo, MI",4,1458,medium city,"Kalamazoo, MI",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Pace University,"New York, NY",5,12835,large urban city,"New York, NY",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"University of Maryland, Baltimore County","Baltimore, MD",3,14000,large urban city,"Baltimore, MD",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+The University of Alabama,"Tuscaloosa, AL",4.5,38000,small city,"Tuscaloosa, AL",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Michigan State University,"East Lansing, MI",4,50000,small city,"East Lansing, MI",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+The Evergreen State College,"Olympia, WA",3.5,2100,small city,"Olympia, WA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Napa Valley College,"Napa, CA",4,5000,small city,"Napa, CA",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Tennessee,"KNoxville, TN",4,26000,medium city,"KNoxville, TN",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Missouri-Kansas City,"Kansas City, MO",4.5,16375,large urban city,"Kansas City, MO",TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Clark University,"Worcester, MA",4.5,2300,medium city,"Worcester, MA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Roger Williams University,"Bristol, RI",4,4000,small town,"Bristol, RI",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Colorado at Colorado Springs,"Colorado Springs, CO",4.5,12017,medium city,"Colorado Springs, CO",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+The Pennsylvania State University,"University Park, PA",5,46184,small town,"University Park, PA",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Emporia State University,"Emporia, KS",4,6100,small city,"Emporia, KS",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Indiana University, Bloomington","Bloomington, IN",5,49695,small city,"Bloomington, IN",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lawrence University,"Appleton, WI",4,1500,small city,"Appleton, WI",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Macalester College,"Saint Paul, MN",5,2094,large urban city,"Saint Paul, MN",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Missouri - St. Louis,"Saint Louis, MO",4,8381,large urban city,"Saint Louis, MO",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+San Diego State University,"San Diego, CA",5,32000,large urban city,"San Diego, CA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+Appalachian State University,"Boone, NC",4.5,20436,small town,"Boone, NC",TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin - Superior,"Superior, WI",3.5,2500,small city,"Superior, WI",TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Centre College,"Danville, KY",3,1450,small town,"Danville, KY",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin - Eau Claire,"Eau Claire, WI",5,11000,small city,"Eau Claire, WI",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Rhodes College,"Memphis, TN",4.5,2000,large urban city,"Memphis, TN",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+"California State University, Chico","Chico, CA",4,16251,medium city,"Chico, CA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+Hofstra University,"Hempstead, NY",5,9533,medium city,"Hempstead, NY",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Rochester,"Rochester, NY",5,10182,medium city,"Rochester, NY",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"University California, Irvine","Irvine, CA",3.5,29000,medium city,"Irvine, CA",NA,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,TRUE,NA
+Washington College,"Chestertown, MD",3.5,1420,very small town,"Chestertown, MD",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Illinois State University,"Normal, IL",4,20000,small city,"Normal, IL",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Miami,"Coral Gables, FL",4,16397,large urban city,"Coral Gables, FL",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Kentucky,"Lexington, KY",5,30000,medium city,"Lexington, KY",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin - Oshkosh,"Oshkosh, WI",4.5,14000,small city,"Oshkosh, WI",TRUE,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Oregon State University,"Corvallis, OR",4,28000,small city,"Corvallis, OR",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+North Dakota State University,"Fargo, ND",3.5,14500,medium city,"Fargo, ND",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University at Albany - SUNY,"Albany, NY",5,18000,medium city,"Albany, NY",TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Michigan Technological University,"Houghton, MI",3.5,7238,rural community,"Houghton, MI",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colby College,"Waterville, ME",3.5,2299,small town,"Waterville, ME",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Northern Kentucky University,"Highland Heights, KY",5,16000,medium city,"Highland Heights, KY",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Eckerd College,"St. Petersburg, FL",3,1950,medium city,"St. Petersburg, FL",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Guilford College,"Greensboro, NC",5,1200,medium city,"Greensboro, NC",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+University of North Dakota,"Grand Forks, ND",4,14172,small city,"Grand Forks, ND",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin - Green Bay,"Green Bay, WI",5,9780,medium city,"Green Bay, WI",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Georgia College & State University,"Milledgeville, GA",3,6800,small town,"Milledgeville, GA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Pittsburgh at Bradford,"Bradford, PA",3.5,1500,rural community,"Bradford, PA",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Kansas,"Lawrence, KS",4.5,28000,small city,"Lawrence, KS",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baldwin Wallace University,"Berea, OH",4,3500,small town,"Berea, OH",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rochester Institute of Technology,"Rochester, NY",4,18897,medium city,"Rochester, NY",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA
+University of Maine at Machias,"Machias, ME",4.5,800,rural community,"Machias, ME",TRUE,NA,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin - Whitewater,"Whitewater, WI",4,12000,small town,"Whitewater, WI",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+San Francisco State University,"San Francisco, CA",3.5,29905,large urban city,"San Francisco, CA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA
+Swarthmore College,"Swarrthmore, PA",4,1699,large urban city,"Swarrthmore, PA",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Texas at Dallas,"Richardson, TX",5,27642,medium city,"Richardson, TX",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Red Rocks Community College,"Lakewood, CO",3.5,4297,medium city,"Lakewood, CO",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colgate University,"Hamilton, NY",4.5,3228,rural community,"Hamilton, NY",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Bard College at Simon's Rock,"Great Barrington, MA",4.5,400,very small town,"Great Barrington, MA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Kent State University,"Kent, OH",5,28000,small city,"Kent, OH",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Purdue University,"West Lafayette, IN",5,49000,small city,"West Lafayette, IN",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kenyon College,"Gambier, OH",4,1730,rural community,"Gambier, OH",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Widener University,"Chester, PA",4,6300,small city,"Chester, PA",NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+College of Wooster,"Wooster, OH",4,2000,small city,"Wooster, OH",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin - Milwaukee,"Milwaukee, WI, WI",4.5,23829,large urban city,"Milwaukee, WI, WI",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Maine at Farmington,"Farmington, ME",4.5,1800,very small town,"Farmington, ME",TRUE,NA,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"St. John's College, Annapolis","Annapolis, MD",3.5,450,small city,"Annapolis, MD",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Drexel University,"Philadelphia, PA",3.5,14000,large urban city,"Philadelphia, PA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Southern Methodist University,"DALLAS, TX",4.5,12373,large urban city,"DALLAS, TX",NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+Earlham College,"Richmond, IN",4.5,1200,small city,"Richmond, IN",NA,TRUE,NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+Southern Illinois University Carbondale,"Carbondale, IL",5,14000,small city,"Carbondale, IL",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Louisville,"Louisville, KY",5,22000,large urban city,"Louisville, KY",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wichita State University,"Wichita, KS",4,15000,large urban city,"Wichita, KS",TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUNY ROCKLAND COMMUNITY COLLEGE,"SUFFERN, NY",3,7500,small town,"SUFFERN, NY",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Adelphi University,"Garden City, NY",5,7859,small town,"Garden City, NY",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hobart and William Smith Colleges,"Geneva, NY",4.5,2396,rural community,"Geneva, NY",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Illinois Chicago,"Chicago, IL",5,30539,large urban city,"Chicago, IL",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,TRUE,TRUE,NA
+Metropolitan State University of Denver,"Denver, CO",4.5,21000,large urban city,"Denver, CO",TRUE,NA,NA,TRUE,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+Montserrat College of Art,"Beverly, MA",4,370,small city,"Beverly, MA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Harvard College,"Cambridge, MA",4.5,6500,medium city,"Cambridge, MA",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Cleveland State University,"Cleveland, OH",4,16000,medium city,"Cleveland, OH",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Mount Union,"Alliance, OH",3,2100,small town,"Alliance, OH",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+University of Virginia,"Charlottesville, VA",4.5,22000,small town,"Charlottesville, VA",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gonzaga University,"Spokane, WA",4.5,7450,medium city,"Spokane, WA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+James Madison University,"Harrisonburg, VA",4,22000,small city,"Harrisonburg, VA",TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of the Arts,"Philadelphia, PA",3,1900,large urban city,"Philadelphia, PA",NA,TRUE,NA,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stevens Institute of Technology,"Hoboken, NJ",4,6825,small city,"Hoboken, NJ",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Towson University,"Towson, MD",5,16517,large urban city,"Towson, MD",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Florida International University,"Miami, FL",4.5,34000,large urban city,"Miami, FL",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+Antioch College,"Yellow Springs, OH",4.5,125,rural community,"Yellow Springs, OH",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Millersville University of Pennsylvania,"Millersville, PA",3.5,7500,small city,"Millersville, PA",TRUE,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mars Hill University,"Mars Hill, NC",3,1000,rural community,"Mars Hill, NC",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+Kean University,"Union, NJ",3,11610,small city,"Union, NJ",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+The University of Findlay,"Findlay, OH",3.5,3500,small city,"Findlay, OH",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Fort Lewis College,"Durango, CO",4,3443,small town,"Durango, CO",TRUE,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE
+Southwestern University,"Georgetown, TX",3.5,1500,small city,"Georgetown, TX",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,TRUE,NA,NA
+Lebanon Valley College,"Annville, PA",4,1651,rural community,"Annville, PA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+University of New Hampshire-Main Campus,"Durham, NH",4.5,13000,small town,"Durham, NH",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mohawk Valley Community College,"Utica, NY",2,5000,small city,"Utica, NY",TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bryant University,"Smithfield, RI",2,3287,small town,"Smithfield, RI",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Emerson College,"Boston, MA",4,3783,large urban city,"Boston, MA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Manhattan School of Music,"New York, NY",3,1035,large urban city,"New York, NY",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eastern Mennonite University,"Harrisonburg, VA",3,1000,small city,"Harrisonburg, VA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+Tidewater Community College,"Norfolk, VA",1.5,7028,large urban city,"Norfolk, VA",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Art Academy of Cincinnati,"Cincinnati, OH",2.5,260,medium city,"Cincinnati, OH",NA,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Joliet Junior College,"Joliet, IL",2.5,10000,small city,"Joliet, IL",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Mary Washington,"Fredericksburg, VA",4,4000,small city,"Fredericksburg, VA",TRUE,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Gwynedd Mercy University,"Gwynedd Valley, PA",3,1724,small town,"Gwynedd Valley, PA",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+Colorado College,"Colorado Springs, CO",2.5,2300,large urban city,"Colorado Springs, CO",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Puget Sound,"Tacoma, WA",4,2200,medium city,"Tacoma, WA",NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Virginia Wesleyan University,"Virginia Beach, VA",5,1750,large urban city,"Virginia Beach, VA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,TRUE
+Fitchburg State University,"FITCHBURG, MA",4.5,3500,small city,"FITCHBURG, MA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,TRUE,NA,NA,NA,NA
+Juniata College,"Huntingdon, PA",3,1600,very small town,"Huntingdon, PA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+University of Michigan-Ann Arbor,"Ann Arbor, MI",5,46000,medium city,"Ann Arbor, MI",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Worcester State University,"Worcester, MA",4.5,4039,medium city,"Worcester, MA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Regis College,"Weston, MA",3.5,3014,rural community,"Weston, MA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+West Chester University of Pennsylvania,"West Chester, PA",4,17552,small town,"West Chester, PA",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+William Paterson University of New Jersey,"Wayne, NJ",4.5,8000,small city,"Wayne, NJ",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+Gallaudet University,"Washington, DC",3.5,1454,large urban city,"Washington, DC",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE
+Whitman College,"Walla Walla, WA",3,1493,small city,"Walla Walla, WA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Wisconsin-Stevens Point,"Stevens Point, WI",4.5,8900,small city,"Stevens Point, WI",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+Georgia Southern University,"Statesboro, GA",3.5,21000,small town,"Statesboro, GA",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Susquehanna University,"Selinsgrove, PA",3,2300,very small town,"Selinsgrove, PA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Dominican University of California,"San Rafael, CA",3,1531,small city,"San Rafael, CA",NA,TRUE,NA,TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Texas State University,"San Marcos, TX",3.5,38000,small city,"San Marcos, TX",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+Skyline College,"San Bruno, CA",3,5599,small city,"San Bruno, CA",TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,TRUE,TRUE,NA
+Salt Lake Community College,"Salt Lake City, UT",4,16158,large urban city,"Salt Lake City, UT",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Catawba College,"Salisbury, NC",2,1200,rural community,"Salisbury, NC",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA
+Nazareth College,"Rochester, NY",4,3000,small town,"Rochester, NY",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Rhode Island College,"Providence, RI",2.5,5776,medium city,"Providence, RI",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE
+Big Sandy Community and Technical College,"Prestonsburg, KY",2.5,1193,rural community,"Prestonsburg, KY",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+Dutchess Community College,"Poughkeepsie, NY",3.5,6500,medium city,"Poughkeepsie, NY",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+California State Polytechnic University-Pomona,"Pomona, CA",3.5,23717,medium city,"Pomona, CA",TRUE,NA,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE
+Diablo Valley College,"Pleasant Hill, CA",1.5,7854,small city,"Pleasant Hill, CA",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Point Park University,"Pittsburgh, PA",3,4000,medium city,"Pittsburgh, PA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+Bergen Community College,"Paramus, NJ",4.5,14585,large urban city,"Paramus, NJ",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Miami University-Oxford,"Oxford, OH",4.5,24000,small town,"Oxford, OH",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Butte College,"Oroville, CA",3.5,4816,small town,"Oroville, CA",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+Wheaton College,"Norton, MA",4.5,1700,small town,"Norton, MA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Oklahoma-Norman Campus,"Norman, OK",4,25829,medium city,"Norman, OK",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Norco College,"Norco, CA",3,10000,small town,"Norco, CA",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Milwaukee Institute of Art & Design,"Milwaukee, WI",4,900,large urban city,"Milwaukee, WI",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Allegheny College,"Meadville, PA",4.5,1800,small town,"Meadville, PA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Ramapo College of New Jersey,"Mahwah, NJ",4,5041,small city,"Mahwah, NJ",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,TRUE,NA,NA
+Drew University,"Madison, NJ",4.5,2100,small town,"Madison, NJ",NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Dakota State University,"Madison, SD",2,3100,very small town,"Madison, SD",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Randolph College,"Lynchburg, VA",3,650,rural community,"Lynchburg, VA",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Otis College of Art and Design,"Los Angeles, CA",4,1100,large urban city,"Los Angeles, CA",NA,TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,TRUE,NA
+Dickinson College,"Carlisle, PA",4.5,2400,small town,"Carlisle, PA",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Northern Colorado,"Greeley, CO",5,11114,medium city,"Greeley, CO",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of North Carolina at Charlotte,"Charlotte, NC",3.5,22968,large urban city,"Charlotte, NC",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Nebraska at Kearney,"Kearney, NE",5,6232,small city,"Kearney, NE",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+California State University-Bakersfield,"Bakersfield, CA",3.5,7000,medium city,"Bakersfield, CA",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,TRUE,NA,NA
+Suffolk University,"Boston, MA",3.5,7288,large urban city,"Boston, MA",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Wayne State University,"Detroit, MI",4.5,26251,large urban city,"Detroit, MI",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Western Colorado University,"Gunnison, CO",3,3040,very small town,"Gunnison, CO",TRUE,NA,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Wentworth Institute of Technology,"Boston, MA",4.5,5000,large urban city,"Boston, MA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+Sacred Heart University,"Fairfield, CT",4,10216,small city,"Fairfield, CT",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+Henry Ford Community College,"Dearborn, MI",2.5,13000,small city,"Dearborn, MI",NA,NA,NA,NA,NA,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA
+Xavier University,"Cincinnati, OH",3,6738,medium city,"Cincinnati, OH",NA,TRUE,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+Haverford College,"Haverford, PA",3,1400,small city,"Haverford, PA",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+The College of Idaho,"Caldwell, ID",2.5,987,very small town,"Caldwell, ID",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+University of Central Arkansas,"Conway, AR",2,12000,small city,"Conway, AR",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Camden County College,"Blackwood, NJ",2.5,6425,rural community,"Blackwood, NJ",NA,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Western Kentucky University,"Bowling Green, KY",4.5,13228,small city,"Bowling Green, KY",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Pittsburgh-Main Campus,"Pittsburgh, PA",5,25069,medium city,"Pittsburgh, PA",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Binghamton University SUNY,"Binghamton, NY",4.5,18000,small city,"Binghamton, NY",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stockton University,"Galloway, NJ",4.5,9080,small city,"Galloway, NJ",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+Kutztown University,"Kutztown, PA",4,8000,very small town,"Kutztown, PA",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+East Carolina University,"Greenville, NC",4.5,29131,small city,"Greenville, NC",TRUE,NA,TRUE,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Southern New Hampshire University,"Manchester, NH",3.5,3400,medium city,"Manchester, NH",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuyahoga Community College Metro Campus,"Cleveland, OH",3,3094,medium city,"Cleveland, OH",NA,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Cuyahoga Community College Western Campus,"Parma, OH",3,7000,small city,"Parma, OH",NA,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Cuyahoga Community College Eastern Campus,"Highland Hills, OH",3,3394,small town,"Highland Hills, OH",NA,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Cuyahoga Community College Westshore Campus,"Westlake, OH",3,2183,small city,"Westlake, OH",NA,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+Ferris State University,"Big Rapids, MI",3.5,10222,small town,"Big Rapids, MI",TRUE,NA,NA,TRUE,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+University of Toledo,"Toledo, OH",4,23000,medium city,"Toledo, OH",TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bates College,"Lewiston, ME",3.5,1800,small city,"Lewiston, ME",NA,NA,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Missouri Science & Technology,"Rolla, MO",3,9000,small town,"Rolla, MO",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA
+Forsyth Technical Community College,"Winston-Salem, NC",4,2890,medium city,"Winston-Salem, NC",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Woodbury University,"Burbank, CA",3,1132,medium city,"Burbank, CA",NA,TRUE,NA,TRUE,TRUE,NA,TRUE,NA,TRUE,TRUE,NA,NA,NA,TRUE,NA,NA
+University of Texas Arlington,"Arlington, TX",5,47000,medium city,"Arlington, TX",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,TRUE,NA
+University of Arkansas at Little Rock,"Little Rock, AR",2.5,6712,medium city,"Little Rock, AR",TRUE,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+Linfield University,"McMinnville, OR",3,1750,small city,"McMinnville, OR",NA,TRUE,NA,NA,NA,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+Bluegrass Community & Technical College (BCTC),"Lexington, KY",4,14500,medium city,"Lexington, KY",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hartwick College,"Oneonta, NY",3.5,1100,small town,"Oneonta, NY",NA,TRUE,NA,NA,TRUE,NA,TRUE,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
