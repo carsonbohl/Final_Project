@@ -4,64 +4,65 @@ format: html
 editor: visual
 ---
 
-
 ```{r}
 #Read in dataset
 Pride_Index_Data <- read.csv(here::here("Data", "pride_index_data.csv"))
 
 ```
 
+```{r}
+#Create new variablew because original dataset has value missing if it's false
+Pride_Index_Data$liberal_arts1 <- ifelse(is.na(Pride_Index_Data$liberal_arts), FALSE, TRUE)
+
+Pride_Index_Data$religious1 <- ifelse(is.na(Pride_Index_Data$religious), FALSE, TRUE)
+
+Pride_Index_Data$community_type1 <- ifelse(is.na(Pride_Index_Data$community_type), FALSE, TRUE)
+
+Pride_Index_Data$residential1 <- ifelse(is.na(Pride_Index_Data$residential), FALSE, TRUE)
+
+Pride_Index_Data$hbcu1 <- ifelse(is.na(Pride_Index_Data$hbcu), FALSE, TRUE)
+```
+
 
 ```{r}
 #Q1: Create descriptive statistics table
 #| label: Table One
-#| tbl-cap: "Descriptive Statistics for 238 colleges"
+#| tbl-cap: "Descriptive Statistics"
 table1 <- tbl_summary(
 	Pride_Index_Data,
 	include = c(rating, students,
-							community_type, public, private, doctoral, masters, baccalaureate,
-							community, residential, nonresidential, liberal_arts, technical, religious,
-							military, hbcu, hispanic_serving, aapi_serving, other_minority_serving),
-	
+							community_type1,
+					residential1, liberal_arts1, religious1,
+							hbcu1),
 	label = list(
 		rating ~ "Acceptance Rating",
 		students ~ "Number of Students",
-		community_type ~ "Type of Community",
-		public ~ "Public",
-		private ~ "Private",
-		doctoral ~ "Doctoral",
-		masters ~ "Masters",
-		baccalaureate ~ "Baccalaureate",
-		community ~ "Community",
-		residential ~ "Residential",
-		nonresidential ~ "Nonresidential",
-		liberal_arts ~ "Liberal Arts",
-		technical ~ "Technical",
-		religious ~ "Religious",
-		military ~ "Military",
-		hbcu ~ "HBCU",
-		hispanic_serving ~ "Hispanic Serving",
-		aapi_serving ~ "AAPI Serving",
-		other_minority_serving ~ "Other Minority Serving"
+		community_type1 ~ "Type of Community",
+		residential1 ~ "Residential",
+		liberal_arts1 ~ "Liberal Arts",
+		religious1 ~ "Religious",
+		hbcu1 ~ "HBCU"
 	),
-	missing_text = "Missing") 
+	missing_text = "Missing"
+)
 table1
 ```
 
 
 
 ```{r}
-#Create new liberal arts variable because original variable has value missing if it's false
-Pride_Index_Data$liberal_arts1 <- ifelse(is.na(Pride_Index_Data$liberal_arts), FALSE, TRUE)
-
 tbl_uvregression(
 	Pride_Index_Data,
-	y = rating,
-	include = c(liberal_arts1
+	y = students,
+	include = c(liberal_arts1, religious1
 	),
 	method = glm
 )
 
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+```{r}
+#| label: Histogram
+#| fig-cap: Histogram depicting the number of students 
+hist(Pride_Index_Data$students)
+```
