@@ -1,0 +1,53 @@
+---
+title: "Final Project"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+#Q1: Create descriptive statistics table
+tbl_summary(
+	Pride_Index_Data,
+	include = c(rating, students,
+							community_type, public, private, doctoral, masters, baccalaureate,
+							community, residential, nonresidential, liberal_arts, technical, religious,
+							military, hbcu, hispanic_serving, aapi_serving, other_minority_serving),
+	label = list(
+		rating ~ "Acceptance Rating",
+		students ~ "Number of Students",
+		community_type ~ "Type of Community",
+		public ~ "Public",
+		private ~ "Private",
+		doctoral ~ "Doctoral",
+		masters ~ "Masters",
+		baccalaureate ~ "Baccalaureate",
+		community ~ "Community",
+		residential ~ "Residential",
+		nonresidential ~ "Nonresidential",
+		liberal_arts ~ "Liberal Arts",
+		technical ~ "Technical",
+		religious ~ "Religious",
+		military ~ "Military",
+		hbcu ~ "HBCU",
+		hispanic_serving ~ "Hispanic Serving",
+		aapi_serving ~ "AAPI Serving",
+		other_minority_serving ~ "Other Minority Serving"
+	),
+	missing_text = "Missing") 
+```
+
+You can add options to executable code like this
+
+```{r}
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
