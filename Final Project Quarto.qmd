@@ -27,7 +27,7 @@ Pride_Index_Data$liberal_arts1 <- ifelse(is.na(Pride_Index_Data$liberal_arts), F
 
 Pride_Index_Data$religious1 <- ifelse(is.na(Pride_Index_Data$religious), FALSE, TRUE)
 
-Pride_Index_Data$community_type1 <- ifelse(is.na(Pride_Index_Data$community_type), FALSE, TRUE)
+Pride_Index_Data$public1 <- ifelse(is.na(Pride_Index_Data$public), FALSE, TRUE)
 
 Pride_Index_Data$residential1 <- ifelse(is.na(Pride_Index_Data$residential), FALSE, TRUE)
 
@@ -42,13 +42,13 @@ This data comes from Campus Pride Index and provides a LGBTQ national benchmarki
 table1 <- tbl_summary(
 	Pride_Index_Data,
 	include = c(rating, students,
-							community_type1,
+							community_type,
 					residential1, liberal_arts1, religious1,
 							hbcu1),
 	label = list(
 		rating ~ "Climate Rating",
 		students ~ "Number of Students",
-		community_type1 ~ "Type of Community",
+		community_type ~ "Type of Community",
 		residential1 ~ "Residential",
 		liberal_arts1 ~ "Liberal Arts",
 		religious1 ~ "Religious",
@@ -59,12 +59,28 @@ table1 <- tbl_summary(
 table1
 ```
 
+
+```{r} 
+#| echo: false
+#| output: false
+#Apply function so I can use it for an inline statistic
+prop <- function(x, multiplier) {
+  n <- length(x)
+  mean_val <- multiplier * sum(x) / n
+  return(mean_val)
+}
+
+prop(Pride_Index_Data$religious1, multiplier=100)
+```
+
+
 ```{r}
 #| echo: false
 #| output: false
 inline_text(table1, variable="students", column="stat_0")
+stat <- prop(Pride_Index_Data$public1, multiplier=100)
 ```
-The median number of students was (`r inline_text( table1, variable = "students", column="stat_0")`).
+The median number of students was (`r inline_text( table1, variable = "students", column="stat_0")`). `r stat`% of the colleges/universities are public. 
 
 
 
@@ -80,7 +96,9 @@ tbl_uvregression(
 	),
 	method = lm
 )
+```
 
+```{r}
 
 ```
 
@@ -91,14 +109,9 @@ tbl_uvregression(
 #| fig-cap: Histogram Depicting Number of Students 
 hist(Pride_Index_Data$students)
 ```
-```{r}
-#| echo: false
-prop <- function(x, multiplier) {
-  n <- length(x)
-  mean_val <- multiplier * sum(x) / n
-  return(mean_val)
-}
-```
+
+
+
 
 
 
