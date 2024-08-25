@@ -9,7 +9,7 @@ editor: visual
 #| output: false
 library(gtsummary)
 library(tidyverse)
-
+library(cardx)
 ```
 
 ```{r}
@@ -98,9 +98,6 @@ tbl_uvregression(
 )
 ```
 
-```{r}
-
-```
 
 @fig-hist shows the distribution of the number of students across the colleges/universities. 
 ```{r}
