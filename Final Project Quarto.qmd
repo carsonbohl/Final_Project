@@ -4,22 +4,25 @@ format: html
 editor: visual
 ---
 
-## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+```{r}
+#Read in dataset
+Pride_Index_Data <- read.csv(here::here("Data", "pride_index_data.csv"))
 
-## Running Code
+```
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
 #Q1: Create descriptive statistics table
-tbl_summary(
+#| label: Table One
+#| tbl-cap: "Descriptive Statistics for 238 colleges"
+table1 <- tbl_summary(
 	Pride_Index_Data,
 	include = c(rating, students,
 							community_type, public, private, doctoral, masters, baccalaureate,
 							community, residential, nonresidential, liberal_arts, technical, religious,
 							military, hbcu, hispanic_serving, aapi_serving, other_minority_serving),
+	
 	label = list(
 		rating ~ "Acceptance Rating",
 		students ~ "Number of Students",
@@ -42,11 +45,22 @@ tbl_summary(
 		other_minority_serving ~ "Other Minority Serving"
 	),
 	missing_text = "Missing") 
+table1
 ```
 
-You can add options to executable code like this
+
 
 ```{r}
+#Create new liberal arts variable because original variable has value missing if it's false
+Pride_Index_Data$liberal_arts1 <- ifelse(is.na(Pride_Index_Data$liberal_arts), FALSE, TRUE)
+
+tbl_uvregression(
+	Pride_Index_Data,
+	y = rating,
+	include = c(liberal_arts1
+	),
+	method = glm
+)
 
 ```
 
