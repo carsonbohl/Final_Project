@@ -66,3 +66,12 @@ tbl_uvregression(
 #| fig-cap: Histogram depicting the number of students 
 hist(Pride_Index_Data$students)
 ```
+```{r}
+prop <- function(x, multiplier) {
+  n <- length(x)
+  mean_val <- multiplier * sum(x) / n
+  return(mean_val)
+}
+
+prop(Pride_Index_Data$religious1, multiplier=100)
+```
