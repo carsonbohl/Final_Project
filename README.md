@@ -1,1 +1,1 @@
-“Run script.R and then render document.qmd”
+“Run R script called Pride Index Coding and then render document.qmd”
