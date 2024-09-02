@@ -1,1 +1,1 @@
-“Run R script called Pride Index Coding and then render Final Project Quarto.qmd”
+“Run and render Final Project Quarto.qmd. All coding is done in Quarto document.”
