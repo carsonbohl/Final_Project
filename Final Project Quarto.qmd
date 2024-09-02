@@ -57,6 +57,7 @@ table1 <- tbl_summary(
 	missing_text = "Missing"
 )
 table1
+write.csv(table1, here::here("Documents", "table1.csv"))
 ```
 
 
@@ -104,9 +105,8 @@ tbl_uvregression(
 #| echo: false
 #| label: fig-hist
 #| fig-cap: Histogram Depicting Number of Students 
-hist(Pride_Index_Data$students)
+histogram <- hist(Pride_Index_Data$students)
 ```
-
 
 
 
